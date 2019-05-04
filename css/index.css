@@ -171,3 +171,34 @@ footer nav a {
 .container .top-img {
     margin-bottom: 20px;
 }
+
+.container .middle-content .boxes .box1 {
+    background: teal;
+}
+.container .middle-content .boxes .box2 {
+    background: gold;
+}
+.container .middle-content .boxes .box3 {
+    background: cadetblue;
+}
+.container .middle-content .boxes .box4 {
+    background: coral;
+}
+.container .middle-content .boxes .box5 {
+    background: crimson;
+}
+.container .middle-content .boxes .box6 {
+    background: forestgreen;
+}
+.container .middle-content .boxes .box7 {
+    background: darkorchid;
+}
+.container .middle-content .boxes .box8 {
+    background: hotpink;
+}
+.container .middle-content .boxes .box9 {
+    background: indigo;
+}
+.container .middle-content .boxes .box10 {
+    background: dodgerblue;
+}

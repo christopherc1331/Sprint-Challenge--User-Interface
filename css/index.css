@@ -144,3 +144,23 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.container header {
+    width: 800px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.container nav {
+    width: 575px;
+    display: flex;
+    justify-content: space-between;
+}
+.container header nav a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Rubik', sans-serif
+}

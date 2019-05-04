@@ -202,3 +202,13 @@ footer nav a {
 .container .middle-content .boxes .box10 {
     background: dodgerblue;
 }
+
+.about-page .top-content {
+    justify-content: flex-start;
+    height: 120px;
+    padding: 0px 15px 15px 15px;
+}
+
+.about-page .main-content {
+    padding: 0px 15px;
+}
